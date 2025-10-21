@@ -1,0 +1,6 @@
+@PVALTA_HostAddress = http://localhost:5215
+
+GET {{PVALTA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
